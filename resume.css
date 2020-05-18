@@ -1,0 +1,88 @@
+body{
+
+
+    background-color: white;
+}
+
+
+
+body{
+
+
+    background-color: #374970;
+}
+.navbar{
+    background-color:lightgrey;
+    border-radius: 68px;
+    padding:  3px 2px;
+}
+  .navbar ul{
+  overflow: auto;
+  }
+
+
+.navbar li{
+list-style: square;
+float: left;
+margin-right: 65px;
+font-style: italic;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.buttons{
+color:black;
+float: bottom;
+}
+
+
+
+
+
+
+.bio{
+    font-family: ink free;
+    font-size: .7cm;
+  /* font-style: italic; */
+  color: white;
+
+
+
+}
+a{
+
+text-decoration: none;
+
+}
+
+
+.button{
+font-size: 5cm;
+color: black;
+    height: 5cm;
+}
+
+
+
+.name{
+font-size: 2cm;
+font-family:Monaco,Brush Script MT,helvetica;">
+font-style: italic;
+color: #374970;
+
+}
+
+* .bio{
+
+color:black;
+margin-left: 1cm;
+
+
+} */
+
+
+.bio{
+    font-family: ink free;
+    font-size: .7cm;
+  /* font-style: italic; */
+  color: black;
+}
